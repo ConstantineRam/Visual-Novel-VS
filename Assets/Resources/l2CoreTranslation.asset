@@ -1,0 +1,834 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: l2CoreTranslation
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Game_name
+      TermType: 0
+      Description: '**EN only**'
+      Languages:
+      - Visual Novel Prototype
+      - Visual Novel Prototype
+      - Visual Novel Prototype
+      - Visual Novel Prototype
+      - Visual Novel Prototype
+      - Visual Novel Prototype
+      - Visual Novel Prototype
+      - Visual Novel Prototype
+      - Visual Novel Prototype
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Options
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u9009\u9879"
+      - "\u30AA\u30D7\u30B7\u30E7\u30F3"
+      - "\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438"
+      - Opciones
+      - "Op\xE7\xF5es"
+      - Options
+      - "\u062E\u064A\u0627\u0631\u0627\u062A"
+      - Options
+      - Options
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Close
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u5173\u95ED"
+      - "\u9589\u3058\u308B"
+      - "\u0417\u0430\u043A\u0440\u044B\u0442\u044C"
+      - Cerrar
+      - Fechar
+      - Close
+      - "\u0625\u063A\u0644\u0627\u0642"
+      - Close
+      - Close
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Language_name
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u4E2D\u6587"
+      - "\u65E5\u672C\u8A9E"
+      - "\u0420\u0443\u0441\u0441\u043A\u0438\u0439"
+      - "Espa\xF1ol"
+      - "Portugu\xEAs"
+      - Hindi
+      - "\u0627\u0644\u0639\u0631\u0628\u064A\u0629"
+      - Indonesian
+      - Indonesian
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Language
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u8BED\u8A00"
+      - "\u8A00\u8A9E"
+      - "\u042F\u0417\u042B\u041A"
+      - IDIOMA
+      - IDIOMA
+      - LANGUAGE
+      - "\u0627\u0644\u0644\u063A\u0629"
+      - LANGUAGE
+      - LANGUAGE
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Sound
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u97F3\u6548"
+      - "\u97F3"
+      - "\u0417\u0432\u0443\u043A"
+      - Sonido
+      - SOM
+      - SOUND
+      - "\u0627\u0644\u0635\u0648\u062A"
+      - SOUND
+      - SOUND
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Music
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u97F3\u4E50"
+      - "\u97F3\u58F0"
+      - "\u041C\u0443\u0437\u044B\u043A\u0430"
+      - "M\xFAsica"
+      - "M\xDASICA"
+      - MUSIC
+      - "\u0627\u0644\u0645\u0648\u0633\u064A\u0642\u0649"
+      - MUSIC
+      - MUSIC
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: On
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u5F00"
+      - "\u30AA\u30F3"
+      - "\u0412\u041A\u041B"
+      - ON
+      - LIGADO
+      - ON
+      - "\u062A\u0634\u063A\u064A\u0644"
+      - ON
+      - ON
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Off
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u5173"
+      - "\u30AA\u30D5"
+      - "\u0412\u042B\u041A\u041B"
+      - OFF
+      - DESLIGADO
+      - OFF
+      - "\u062A\u0639\u0637\u064A\u0644"
+      - OFF
+      - OFF
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Help
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u5E2E\u52A9"
+      - "\u30D8\u30EB\u30D7"
+      - "\u041F\u043E\u043C\u043E\u0449\u044C"
+      - Ayuda
+      - Ajuda
+      - Help
+      - "\u0645\u0633\u0627\u0639\u062F\u0629"
+      - Help
+      - Help
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Credits
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u732B\u54AA\u5C0F\u961F"
+      - "\u30AD\u30E3\u30C3\u30C8\u30C1\u30FC\u30E0"
+      - "\u041A\u043E\u0442\u043E\u043A\u043E\u043C\u0430\u043D\u0434\u0430"
+      - EQUIPO GATUNO
+      - TIME GATO
+      - Credits
+      - "\u0627\u0645\u062A\u0646\u0627\u0646"
+      - Credits
+      - Credits
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Reset
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u6E38\u620F\u91CD\u7F6E"
+      - "\u30B2\u30FC\u30E0\u3092\u30EA\u30BB\u30C3\u30C8\u3059\u308B"
+      - "\u041F\u0435\u0440\u0435\u0437\u0430\u043F\u0443\u0441\u043A \u0438\u0433\u0440\u044B"
+      - Empezar de nuevo
+      - RESETAR JOGO
+      - RESET GAME
+      - "\u0625\u0639\u0627\u062F\u0629 \u0625\u0639\u062F\u0627\u062F\u0627\u062A
+        \u0627\u0644\u0644\u0639\u0628\u0629"
+      - RESET GAME
+      - RESET GAME
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: PrivacyPolicy
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u9690\u79C1\u6761\u6B3E"
+      - "\u30D7\u30E9\u30A4\u30D0\u30B7\u30FC\u30DD\u30EA\u30B7\u30FC"
+      - "\u041F\u041E\u041B\u0418\u0422\u0418\u041A\u0410 \u041A\u041E\u041D\u0424\u0418\u0414\u0415\u041D\u0426\u0418\u0410\u041B\u042C\u041D\u041E\u0421\u0422\u0418"
+      - "POL\xCDTICA DE PRIVACIDAD"
+      - "POL\xCDTICA DE PRIVACIDADE"
+      - PRIVACY POLICY
+      - "\u0633\u064A\u0627\u0633\u0629 \u0627\u0644\u062E\u0635\u0648\u0635\u064A\u0629"
+      - PRIVACY POLICY
+      - PRIVACY POLICY
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: TermOfUse
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u670D\u52A1\u6761\u6B3E"
+      - "\u4F7F\u7528\u898F\u7D04"
+      - "\u0423\u0421\u041B\u041E\u0412\u0418\u042F \u0418\u0421\u041F\u041E\u041B\u042C\u0417\u041E\u0412\u0410\u041D\u0418\u042F"
+      - "T\xC9RMINOS DE USO"
+      - TERMOS DE USO
+      - TERMS OF USE
+      - "\u0628\u0646\u0648\u062F \u0627\u0644\u0627\u0633\u062A\u062E\u062F\u0627\u0645"
+      - TERMS OF USE
+      - TERMS OF USE
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Accept
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u63A5\u53D7"
+      - "\u627F\u8A8D"
+      - "\u041F\u0420\u0418\u041D\u042F\u0422\u042C"
+      - ACEPTAR
+      - ACEITAR
+      - ACCEPT
+      - "\u0645\u0648\u0627\u0641\u0642\u0629"
+      - ACCEPT
+      - ACCEPT
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Ok
+      TermType: 0
+      Description: done
+      Languages:
+      - OK
+      - OK
+      - OK
+      - OK
+      - OK
+      - OK
+      - "\u062D\u0633\u0646\u0627"
+      - OK
+      - OK
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Cancel
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u53D6\u6D88"
+      - "\u30AD\u30E3\u30F3\u30BB\u30EB"
+      - "\u041E\u0422\u041C\u0415\u041D\u0410"
+      - CANCELAR
+      - CANCELAR
+      - CANCEL
+      - "\u0625\u0644\u063A\u0627\u0621"
+      - CANCEL
+      - CANCEL
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Resume
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u91CD\u65B0\u5F00\u59CB"
+      - "\u9063\u308A\u76F4\u3059"
+      - "\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C"
+      - "\u0421ontinuar"
+      - Continuar
+      - Resume
+      - "\u0645\u0648\u0627\u0635\u0644\u0629"
+      - Resume
+      - Resume
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Yes
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u662F"
+      - "\u306F\u3044"
+      - "\u0414\u0410"
+      - "S\xCD"
+      - SIM
+      - YES
+      - "\u0646\u0639\u0645"
+      - YES
+      - YES
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: No
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u5426"
+      - "\u3044\u3044\u3048"
+      - "\u041D\u0415\u0422"
+      - NO
+      - "N\xC3O"
+      - NO
+      - "\u0644\u0627"
+      - NO
+      - NO
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Error
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u9519\u8BEF"
+      - "\u30A8\u30E9\u30FC"
+      - "\u041E\u0428\u0418\u0411\u041A\u0410"
+      - ERROR
+      - ERRO
+      - ERROR
+      - "\u062E\u0637\u0623"
+      - ERROR
+      - ERROR
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: PleaseWait
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u8BF7\u7B49\u5F85..."
+      - "\u304A\u5F85\u3061\u4E0B\u3055\u3044\u2026"
+      - "\u041F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430 \u043F\u043E\u0434\u043E\u0436\u0434\u0438\u0442\u0435..."
+      - Por favor, espera...
+      - Por favor aguarde
+      - Please wait...
+      - "\u064A\u0631\u062C\u0649 \u0627\u0644\u0627\u0646\u062A\u0638\u0627\u0631"
+      - Please wait...
+      - Please wait...
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: RateUs_Capture
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u8BC4\u4EF7\u6211\u4EEC"
+      - "\u30EC\u30D3\u30E5\u30FC\u3092\u3057\u3066\u4E0B\u3055\u3044"
+      - "\u041E\u0446\u0435\u043D\u0438\u0442\u0435 \u043D\u0430\u0441"
+      - "Punt\xFAanos"
+      - Avalie-nos
+      - Rate us
+      - "\u0627\u062A\u0631\u0643 \u0644\u0646\u0627 \u062A\u0642\u064A\u064A\u0645\u0627"
+      - Rate us
+      - Rate us
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: RateUs_Enjoy
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u559C\u7231\u5C0F\u732B\u54AA\u5417?"
+      - "Kitties\u3092\u697D\u3057\u3093\u3067\u3044\u307E\u3059\u304B\uFF1F"
+      - "\u041D\u0440\u0430\u0432\u044F\u0442\u0441\u044F \u041A\u043E\u0442\u044F\u0442\u043A\u0438?"
+      - "\xBFDisfrutando de los gatitos?"
+      - Gostando dos gatinhos?
+      - Enjoying the Kitties?
+      - "\u0647\u0644 \u0623\u0646\u062A \u0645\u0633\u062A\u0645\u062A\u0639 \u0628\u0627\u0644\u0642\u064F\u0637\u064A\u0637\u0627\u062A\u061F"
+      - Enjoying the Kitties?
+      - Enjoying the Kitties?
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: RateUs_PlayMore
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u66F4\u591A\u6E38\u620F\uFF01"
+      - "\u3082\u3063\u3068\u30D7\u30EC\u30A4\u3059\u308B\uFF01"
+      - "\u041F\u041E\u0418\u0413\u0420\u0410\u0422\u042C \u0415\u0429\u0401!"
+      - "\xA1SIGUE JUGANDO!"
+      - JOGUE MAIS!
+      - PLAY MORE!
+      - "\u0627\u0644\u0639\u0628 \u0627\u0643\u062B\u0631!"
+      - PLAY MORE!
+      - PLAY MORE!
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: RateUs_RateNow
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u7ACB\u5373\u8BC4\u4EF7\uFF01"
+      - "\u30EC\u30D3\u30E5\u30FC\u3059\u308B\uFF01"
+      - "\u041E\u0426\u0415\u041D\u0418\u0422\u042C \u0421\u0415\u0419\u0427\u0410\u0421!"
+      - "\xA1PUNT\xDAANOS AHORA!"
+      - AVALIE AGORA!
+      - RATE NOW!
+      - "\u0627\u062A\u0631\u0643 \u062A\u0642\u064A\u064A\u0645\u0627 \u0627\u0644\u0622\u0646!"
+      - RATE NOW!
+      - RATE NOW!
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: DontShowAgain
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u4E0D\u8981\u518D\u663E\u793A"
+      - "\u3082\u3046\u8868\u793A\u3057\u306A\u3044"
+      - "\u041D\u0435 \u043F\u043E\u043A\u0430\u0437\u044B\u0432\u0430\u0442\u044C
+        \u0441\u043D\u043E\u0432\u0430"
+      - No mostrar de nuevo
+      - "N\xE3o mostrar de novo"
+      - Don't show again
+      - "\u0639\u062F\u0645 \u0625\u0638\u0647\u0627\u0631\u0647\u0627 \u0645\u0631\u0629
+        \u0623\u062E\u0631\u0649"
+      - Don't show again
+      - Don't show again
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: TryOtherGames
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u5C1D\u8BD5\u5176\u5B83\u6E38\u620F!"
+      - "\u4ED6\u306E\u30B2\u30FC\u30E0\u3092\u30D7\u30EC\u30A4\u3059\u308B"
+      - "\u0417\u0430\u0446\u0435\u043D\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u0438\u0435
+        \u043D\u0430\u0448\u0438 \u0438\u0433\u0440\u044B!"
+      - "\xA1Prueba nuestros otros juegos!"
+      - Experimente nossos outros jogos!
+      - Try our other games!
+      - "\u0645\u062D\u0627\u0648\u0644\u0629 \u0644\u0639\u0628\u0629 \u0623\u062E\u0631\u0649!"
+      - Try our other games!
+      - Try our other games!
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: YourScore
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u4F60\u7684\u5F97\u5206"
+      - "\u3042\u306A\u305F\u306E\u30B9\u30B3\u30A2"
+      - "\u0412\u0430\u0448 \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442"
+      - "Tu puntuaci\xF3n"
+      - "SUA PONTUA\xC7\xC3O"
+      - YOUR SCORE
+      - "\u0639\u062F\u062F \u0646\u0642\u0627\u0637\u0643"
+      - YOUR SCORE
+      - YOUR SCORE
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: BestScore
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u6700\u4F73\u5F97\u5206"
+      - "\u30D9\u30B9\u30C8\u30B9\u30B3\u30A2"
+      - "\u0420\u0435\u043A\u043E\u0440\u0434"
+      - "Mejor puntuaci\xF3n"
+      - "MELHOR PONTUA\xC7\xC3O"
+      - BEST SCORE
+      - "\u0623\u0641\u0636\u0644 \u0646\u062A\u064A\u062C\u0629"
+      - BEST SCORE
+      - BEST SCORE
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: NewBestScore
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u65B0\u7EAA\u5F55!"
+      - "\u30D9\u30B9\u30C8\u30B9\u30B3\u30A2\u9054\u6210\uFF01"
+      - "\u041D\u043E\u0432\u044B\u0439 \u0420\u0435\u043A\u043E\u0440\u0434!"
+      - "\xA1Nueva mejor puntuaci\xF3n!\n"
+      - "Nova melhor pontua\xE7\xE3o!"
+      - New best score!
+      - "\u0623\u0641\u0636\u0644 \u0646\u062A\u064A\u062C\u0629 \u062C\u062F\u064A\u062F\u0629!"
+      - New best score!
+      - New best score!
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: ADsNotAvailable
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u5E7F\u544A\u4E0D\u53EF\u7528\u3002\u8BF7\u7A0D\u540E\u518D\u8BD5\u3002"
+      - "AD\u304C\u5229\u7528\u3067\u304D\u307E\u305B\u3093\u3002\u5F8C\u3067\u8A66\u3057\u3066\u304F\u3060\u3055\u3044\u3002"
+      - "\u0420\u0435\u043A\u043B\u0430\u043C\u0430 \u043D\u0435 \u0434\u043E\u0441\u0442\u0443\u043F\u043D\u0430.
+        \u041F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430, \u043F\u043E\u043F\u0440\u043E\u0431\u0443\u0439\u0442\u0435
+        \u043F\u043E\u0437\u0436\u0435."
+      - "Los anuncios no est\xE1n disponibles. Por favor, int\xE9ntalo m\xE1s tarde."
+      - "Os an\xFAncios n\xE3o est\xE3o dispon\xEDveis. Por favor tente de novo mais
+        tarde."
+      - ADs is not available. Please try again later.
+      - "\u0627\u0644\u0625\u0639\u0644\u0627\u0646\u0627\u062A \u063A\u064A\u0631
+        \u0645\u062A\u0627\u062D\u0629 \u062D\u0627\u0644\u0628\u0627. \u064A\u0631\u062C\u0649
+        \u0627\u0644\u0645\u062D\u0627\u0648\u0644\u0629 \u0644\u0627\u062D\u0642\u0627."
+      - ADs is not available. Please try again later.
+      - ADs is not available. Please try again later.
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Retry
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u91CD\u8BD5"
+      - "\u30EA\u30C8\u30E9\u30A4"
+      - "\u041F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u044C"
+      - Reintentar
+      - Tentar de novo
+      - Retry
+      - "\u0625\u0639\u0627\u062F\u0629 \u0627\u0644\u0645\u062D\u0627\u0648\u0644\u0629"
+      - Retry
+      - Retry
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Exit
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u8D70"
+      - "\u6062\u590D"
+      - "\u0412\u044B\u0439\u0442\u0438"
+      - Salir
+      - Sair
+      - Exit
+      - "\u0645\u063A\u0627\u062F\u0631\u0629"
+      - Exit
+      - Exit
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Save_game
+      TermType: 0
+      Description: 
+      Languages:
+      - Save
+      - Save
+      - "\u0421\u043E\u0445\u0440\u0430\u043D\u0438\u0442\u044C"
+      - Save
+      - Save
+      - Save
+      - Save
+      - Save
+      - Save
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Load_game
+      TermType: 0
+      Description: 
+      Languages:
+      - Load
+      - Load
+      - "\u0417\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044C"
+      - Load
+      - Load
+      - Load
+      - Load
+      - Load
+      - Load
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Continue_game
+      TermType: 0
+      Description: 
+      Languages:
+      - Continue
+      - Continue
+      - "\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C"
+      - Continue
+      - Continue
+      - Continue
+      - Continue
+      - Continue
+      - Continue
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: SomethingWentWrong
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u51FA\u73B0\u9519\u8BEF!"
+      - "\u4E0D\u5177\u5408\u304C\u767A\u751F\u3057\u307E\u3057\u305F\uFF01"
+      - "\u0427\u0442\u043E-\u0442\u043E \u043F\u043E\u0448\u043B\u043E \u043D\u0435
+        \u0442\u0430\u043A!"
+      - "\xA1Algo ha salido mal!"
+      - Algo deu errado!
+      - Something Went Wrong!
+      - "\u0644\u0642\u062F \u062D\u062F\u062B \u062E\u0637\u0623 \u0645\u0627!"
+      - Something Went Wrong!
+      - Something Went Wrong!
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: TryAgainLater
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u51FA\u73B0\u4E86\u4E00\u4E2A\u9519\u8BEF\uFF0C\u8BF7\u7A0D\u540E\u518D\u8BD5\u3002"
+      - "\u30A8\u30E9\u30FC\u304C\u767A\u751F\u3057\u307E\u3057\u305F\u3002\u3082\u3046\u4E00\u5EA6\u8A66\u3057\u3066\u4E0B\u3055\u3044\u3002"
+      - "\u041F\u0440\u043E\u0438\u0437\u043E\u0448\u043B\u0430 \u043E\u0448\u0438\u0431\u043A\u0430.
+        \u041F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430, \u043F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u0435
+        \u043F\u043E\u0437\u0436\u0435."
+      - "Ha ocurrido un error. Por favor, int\xE9ntalo m\xE1s tarde."
+      - Um erro ocorreu. Por favor tente de novo mais tarde.
+      - An error occurred. Please try again later.
+      - "\u0644\u0642\u062F \u062D\u062F\u062B \u062E\u0637\u0623 \u0645\u0627. \u064A\u0631\u062C\u0649
+        \u0627\u0644\u0645\u062D\u0627\u0648\u0644\u0629 \u0644\u0627\u062D\u0642\u0627."
+      - An error occurred. Please try again later.
+      - An error occurred. Please try again later.
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: POPUP_NOT_ENOUGH_SPACE_TITLE
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u78C1\u76D8\u7A7A\u95F4\u4E0D\u8DB3"
+      - "\u30C7\u30A3\u30B9\u30AF\u30B9\u30DA\u30FC\u30B9\u304C\u8DB3\u308A\u307E\u305B\u3093\u3002"
+      - "\u041D\u0435 \u0434\u043E\u0441\u0442\u0430\u0442\u043E\u0447\u043D\u043E
+        \u043C\u0435\u0441\u0442\u0430 \u043D\u0430 \u0434\u0438\u0441\u043A\u0435"
+      - No hay suficiente espacio en la memoria.
+      - "N\xE3o H\xE1 Espa\xE7o Suficiente no Disco"
+      - Not Enough Disk Space
+      - "\u0645\u0633\u0627\u062D\u0629 \u063A\u064A\u0631 \u0643\u0627\u0641\u064A\u0647
+        \u0641\u064A \u0627\u0644\u0642\u0631\u0635."
+      - Not Enough Disk Space
+      - Not Enough Disk Space
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Warning
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u8B66\u544A!"
+      - "\u8B66\u544A\uFF01"
+      - "\u0412\u041D\u0418\u041C\u0410\u041D\u0418\u0415!"
+      - "\xA1AVISO!"
+      - AVISO!
+      - WARNING!
+      - "\u062A\u062D\u0630\u064A\u0631!"
+      - WARNING!
+      - WARNING!
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: AreYouSure
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u4F60\u786E\u5B9A\u5417?"
+      - "\u672C\u5F53\u306B\u3044\u3044\u3067\u3059\u304B\uFF1F"
+      - "\u0412\u042B \u0423\u0412\u0415\u0420\u0415\u041D\u042B?"
+      - "\xBFEST\xC1S SEGURO?"
+      - "VOC\xCA TEM CERTEZA?"
+      - ARE YOU SURE?
+      - "\u0647\u0644 \u0623\u0646\u062A \u0645\u062A\u0623\u0643\u062F\u061F"
+      - ARE YOU SURE?
+      - ARE YOU SURE?
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: NoInternet
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u7F51\u7EDC\u6CA1\u6709\u8FDE\u63A5"
+      - "\u30A4\u30F3\u30BF\u30FC\u30CD\u30C3\u30C8\u306B\u63A5\u7D9A\u3055\u308C\u3066\u3044\u307E\u305B\u3093\u3002"
+      - "\u041D\u0435\u0442 \u0441\u0432\u044F\u0437\u0438 \u0441 \u0441\u0435\u0442\u044C\u044E
+        \u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442"
+      - "No hay conexi\xF3n a internet"
+      - "Sem conex\xE3o com a internet"
+      - No Internet Connection
+      - "\u0627\u0644\u0634\u0628\u0643\u0629 \u063A\u064A\u0631 \u0645\u062A\u0635\u0644\u0629."
+      - No Internet Connection
+      - No Internet Connection
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: filename
+      TermType: 0
+      Description: filename
+      Languages:
+      - filename
+      - filename
+      - "\u0438\u043C\u044F \u0444\u0430\u0439\u043B\u0430"
+      - filename
+      - filename
+      - filename
+      - filename
+      - filename
+      - filename
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: Update
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u66F4\u65B0"
+      - "\u30A2\u30C3\u30D7\u30C7\u30FC\u30C8"
+      - "\u041E\u0411\u041D\u041E\u0412\u041B\u0415\u041D\u0418\u0415"
+      - ACTUALIZAR
+      - "ATUALIZA\xC7\xC3O"
+      - UPDATE
+      - "\u062A\u062D\u062F\u064A\u062B"
+      - UPDATE
+      - UPDATE
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: NewUpdate
+      TermType: 0
+      Description: done
+      Languages:
+      - "\u6700\u8FD1\u66F4\u65B0!"
+      - "\u65B0\u3057\u3044\u30A2\u30C3\u30D7\u30C7\u30FC\u30C8\uFF01"
+      - "\u041D\u041E\u0412\u0410\u042F \u0412\u0415\u0420\u0421\u0418\u042F!"
+      - "\xA1NUEVA ACTUALIZACI\xD3N!"
+      - "NOVA ATUALIZA\xC7\xC3O!"
+      - NEW UPDATE!
+      - "\u062A\u062D\u062F\u064A\u062B \u062C\u062F\u064A\u062F!"
+      - NEW UPDATE!
+      - NEW UPDATE!
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: IDNot_Found
+      TermType: 0
+      Description: need translation
+      Languages:
+      - ID not found.
+      - ID not found.
+      - ID not found.
+      - ID not found.
+      - ID not found.
+      - ID not found.
+      - ID not found.
+      - ID not found.
+      - ID not found.
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: blank_name
+      TermType: 0
+      Description: need translation
+      Languages:
+      - BLANC DESCRIPTION
+      - BLANC DESCRIPTION
+      - "\u041F\u0423\u0421\u0422\u041E\u0415 \u0418\u041C\u042F"
+      - BLANC DESCRIPTION
+      - BLANC DESCRIPTION
+      - BLANC DESCRIPTION
+      - BLANC DESCRIPTION
+      - BLANC DESCRIPTION
+      - BLANC DESCRIPTION
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: blanc_desc
+      TermType: 0
+      Description: need translation
+      Languages:
+      - BLANC MAP DESCRIPTION
+      - BLANC MAP DESCRIPTION
+      - "\u041F\u0423\u0421\u0422\u041E\u0415 \u041E\u041F\u0418\u0421\u0410\u041D\u0418\u0415"
+      - BLANC MAP DESCRIPTION
+      - BLANC MAP DESCRIPTION
+      - BLANC MAP DESCRIPTION
+      - BLANC MAP DESCRIPTION
+      - BLANC MAP DESCRIPTION
+      - BLANC MAP DESCRIPTION
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: blanc_map
+      TermType: 0
+      Description: need translation
+      Languages:
+      - ID not found.
+      - ID not found.
+      - "\u041F\u0423\u0421\u0422\u041E\u0415 \u041E\u041F\u0418\u0421\u0410\u041D\u0418\u0415
+        \u0414\u041B\u042F \u041A\u0410\u0420\u0422\u042B"
+      - ID not found.
+      - ID not found.
+      - ID not found.
+      - ID not found.
+      - ID not found.
+      - ID not found.
+      Flags: 000000000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: Chinese
+      Code: zh
+      Flags: 0
+    - Name: Japanese
+      Code: ja
+      Flags: 0
+    - Name: Russian
+      Code: ru
+      Flags: 0
+    - Name: Spanish
+      Code: es
+      Flags: 0
+    - Name: Portuguese
+      Code: pt
+      Flags: 0
+    - Name: Hindi
+      Code: hi
+      Flags: 0
+    - Name: Arabic
+      Code: ar
+      Flags: 0
+    - Name: Indonesian
+      Code: id
+      Flags: 0
+    - Name: Ukrainian
+      Code: uk
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: 
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: C:/Users/const/Downloads/Localization - KEYS(1).csv
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
+    Spreadsheet_SortRows: 1

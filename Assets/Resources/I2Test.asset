@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Test
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: testLine0
+      TermType: 0
+      Description: 
+      Languages:
+      - Test Line 0 Chinese
+      - Test Line 0 Japanese
+      - Test Line 0 Russian
+      - Test Line 0 Spanish
+      - Test Line 0 Portuguese
+      - Test Line 0 Hindi
+      - Test Line 0 Arabic
+      - Test Line 0 Indonesian
+      - Test Line 0 Ukranian
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: testLine1
+      TermType: 0
+      Description: 
+      Languages:
+      - Test Line 1 Chinese
+      - Test Line 1 Japanese
+      - Test Line 1 Russian
+      - Test Line 1 Spanish
+      - Test Line 1 Portuguese
+      - Test Line 1 Hindi
+      - Test Line 1 Arabic
+      - Test Line 1 Indonesian
+      - Test Line 1 Ukranian
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: testLine2
+      TermType: 0
+      Description: 
+      Languages:
+      - Test Line 2 Chinese
+      - Test Line 2 Japanese
+      - Test Line 2 Russian
+      - Test Line 2 Spanish
+      - Test Line 2 Portuguese
+      - Test Line 2 Hindi
+      - Test Line 2 Arabic
+      - Test Line 2 Indonesian
+      - Test Line 2 Ukranian
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: testLine3
+      TermType: 0
+      Description: 
+      Languages:
+      - Test Line 3 Chinese
+      - Test Line 3 Japanese
+      - Test Line 3 Russian
+      - Test Line 3 Spanish
+      - Test Line 3 Portuguese
+      - Test Line 3 Hindi
+      - Test Line 3 Arabic
+      - Test Line 3 Indonesian
+      - Test Line 3 Ukranian
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: testLine5
+      TermType: 0
+      Description: 
+      Languages:
+      - Test Line 4 Chinese
+      - Test Line 4 Japanese
+      - Test Line 4 Russian
+      - Test Line 4 Spanish
+      - Test Line 4 Portuguese
+      - Test Line 4 Hindi
+      - Test Line 4 Arabic
+      - Test Line 4 Indonesian
+      - Test Line 4 Ukranian
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: testLineLong0
+      TermType: 0
+      Description: 
+      Languages:
+      - Test Line Long 5 Chinese
+      - Test Line Long 5 Japanese
+      - Test Line Long 5 Russian
+      - Test Line Long 5 Spanish
+      - Test Line Long 5 Portuguese
+      - Test Line Long 5 Hindi
+      - Test Line Long 5 Arabic
+      - Test Line Long 5 Indonesian
+      - Test Line Long 5 Ukranian
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: testLineLong1
+      TermType: 0
+      Description: 
+      Languages:
+      - Test Line Long 6 Chinese
+      - Test Line Long 6 Japanese
+      - Test Line Long 6 Russian
+      - Test Line Long 6 Spanish
+      - Test Line Long 6 Portuguese
+      - Test Line Long 6 Hindi
+      - Test Line Long 6 Arabic
+      - Test Line Long 6 Indonesian
+      - Test Line Long 6 Ukranian
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: testLineLong2
+      TermType: 0
+      Description: 
+      Languages:
+      - Test Line Long 7 Chinese
+      - Test Line Long 7 Japanese
+      - Test Line Long 7 Russian
+      - Test Line Long 7 Spanish
+      - Test Line Long 7 Portuguese
+      - Test Line Long 7 Hindi
+      - Test Line Long 7 Arabic
+      - Test Line Long 7 Indonesian
+      - Test Line Long 7 Ukranian
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: testCaption0
+      TermType: 0
+      Description: 
+      Languages:
+      - Test Caption 0 Chinese
+      - Test Caption 0 Japanese
+      - Test Caption 0 Russian
+      - Test Caption 0 Spanish
+      - Test Caption 0 Portuguese
+      - Test Caption 0 Hindi
+      - Test Caption 0 Arabic
+      - Test Caption 0 Indonesian
+      - Test Caption 0 Ukranian
+      Flags: 000000000000000000
+      Languages_Touch: []
+    - Term: testCaption1
+      TermType: 0
+      Description: 
+      Languages:
+      - Test Caption 1 Chinese
+      - Test Caption 1 Japanese
+      - Test Caption 1 Russian
+      - Test Caption 1 Spanish
+      - Test Caption 1 Portuguese
+      - Test Caption 1 Hindi
+      - Test Caption 1 Arabic
+      - Test Caption 1 Indonesian
+      - Test Caption 1 Ukranian
+      Flags: 000000000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: Chinese
+      Code: zh
+      Flags: 0
+    - Name: Japanese
+      Code: ja
+      Flags: 0
+    - Name: Russian
+      Code: ru
+      Flags: 0
+    - Name: Spanish
+      Code: es
+      Flags: 0
+    - Name: Portuguese
+      Code: pt
+      Flags: 0
+    - Name: Hindi
+      Code: hi
+      Flags: 0
+    - Name: Arabic
+      Code: ar
+      Flags: 0
+    - Name: Indonesian
+      Code: id
+      Flags: 0
+    - Name: Ukrainian
+      Code: uk
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: 
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: C:/Users/const/Downloads/Localization - Test.csv
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
+    Spreadsheet_SortRows: 1

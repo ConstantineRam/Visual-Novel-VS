@@ -1,0 +1,4 @@
+public interface TalkBit :TextBased
+{
+
+}
